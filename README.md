@@ -1,2 +1,4 @@
 # XV6-Tail-Implementation
-Tail Implementation in XV6
+
+- Implementing the ‘tail’ command
+- Extending tail
